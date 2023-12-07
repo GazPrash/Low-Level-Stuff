@@ -1,0 +1,6 @@
+data/
+vscode/
+Game*Engine/
+Networking/
+Patten*Matching*Glob/
+.vs/*
